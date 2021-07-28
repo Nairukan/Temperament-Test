@@ -1,0 +1,10 @@
+E:\C#\obj\Debug\FirstTry.csprojAssemblyReference.cache
+E:\C#\obj\Debug\FirstTry.Test.resources
+E:\C#\obj\Debug\FirstTry.csproj.GenerateResource.cache
+E:\C#\bin\Debug\FirstTry.exe.config
+E:\C#\bin\Debug\FirstTry.exe
+E:\C#\bin\Debug\FirstTry.pdb
+E:\C#\obj\Debug\FirstTry.Properties.Resources.resources
+E:\C#\obj\Debug\FirstTry.csproj.CoreCompileInputs.cache
+E:\C#\obj\Debug\FirstTry.exe
+E:\C#\obj\Debug\FirstTry.pdb
